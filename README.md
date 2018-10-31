@@ -9,6 +9,8 @@ Udacity Course — very in-detail and fine https://classroom.udacity.com/cou
 # List of Contributors
 You can view the contributors in this repository from [here](Contributors.md)
 
+## You just need the Zeal to learn :)
+
 ### Happy Coding ❤
 
 May the Code be with you all ❤
